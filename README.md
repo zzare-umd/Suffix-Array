@@ -2,6 +2,8 @@
 
 --Language: C++11.2
 
+-- Analyzing results & making plots: Python
+
 --Reference to the lectures and online resources used to implement the querysa() function:
 
     https://rob-p.github.io/CMSC858D_S22/static_files/presentations/CMSC858D_S22_11.pdf
